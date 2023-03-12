@@ -78,3 +78,4 @@ You can learn more about how Contentful userland is organized by visiting [our a
 # SmartC
 # SmartC
 # Blog-Smart
+# Blog-favicon
