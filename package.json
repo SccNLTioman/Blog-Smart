@@ -1,0 +1,11 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "Rob",
+  "main": "731-b3df0e7ac7f1ef48db18.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob",
+  "license": "ISC"
+}
